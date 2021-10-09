@@ -1,2 +1,3 @@
-# Olá, mundo!
- Primeiro repositório versionado 
+# Olá, mundo! :globe_with_meridians:
+
+ Primeiro repositório 
