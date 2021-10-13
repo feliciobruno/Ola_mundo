@@ -7,4 +7,5 @@ _Primeiro repositório_
  ✔️ Adquirir essas habilidades é essencial para concluir qualquer objetivo.
  
  Stay focus! Hello world! 
+ 
  Mantenha o foco! Olá, mundo! 
